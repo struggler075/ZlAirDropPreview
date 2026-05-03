@@ -164,7 +164,3 @@
 - `/zldrop help`
 
 Она выводит краткую справку по всем основным подкомандам.
-
-## Wiki
-
-https://github.com/your-repo/wiki
